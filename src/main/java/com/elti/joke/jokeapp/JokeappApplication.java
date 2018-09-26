@@ -3,6 +3,9 @@ package com.elti.joke.jokeapp;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * Created by e.sh. on 26-Sep-2018
+ */
 @SpringBootApplication
 public class JokeappApplication {
 
