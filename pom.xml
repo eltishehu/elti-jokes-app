@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.elti.joke</groupId>
-    <artifactId>jokeapp</artifactId>
+    <artifactId>elti-jokeapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>jokeapp</name>
+    <name>elti-jokeapp</name>
     <description>Joke App for Spring Boot</description>
 
     <parent>
